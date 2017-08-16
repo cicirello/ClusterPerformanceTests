@@ -1,0 +1,4 @@
+org.cicirello.algengine
+org.cicirello.math
+org.cicirello.matrixops
+org.cicirello.tests.parperformance
